@@ -1,11 +1,11 @@
 ## 👋 Hey there!
 
-I’m **Tayrine**, a Junior Full-Stack Developer who loves building apps that not only work well but are fun and intuitive to use.
+I’m **Tayrine**, a Junior Full-Stack Developer who loves building apps that not only work well but feel good to use.
 
 I recently graduated from **Lighthouse Labs’ Web Development program**, where I built full-stack projects using **JavaScript**, **React**, **Node.js**, **PostgreSQL**, and more. 
 I’m always learning and looking for new ways to level up my skills.
 
-Before switching to tech, I worked in **civil engineering** and the **hospitality industry**, which gave me a solid foundation in problem-solving, project management, staying organized, time management, and thriving in fast-paced environments.
+Before moving into tech, I worked in **civil engineering** and **hospitality**, gaining solid experience in problem-solving, managing projects and time, staying organized, and working well under pressure.
 
 I’m excited to join a dev team where I can keep growing and contribute my skills.
 
@@ -22,13 +22,13 @@ I’m excited to join a dev team where I can keep growing and contribute my skil
 
 ---
 
-### 🚀 Current Project
+### 🛠️ Current Project
 
 🌿 **Earth Table E-commerce**  
-I’m currently building an e-commerce platform for **Earth Table**, a holistic meal prep and personal chef business. It’s built with **React**, **Node.js**, and **Supabase**, and focuses on creating a smooth shopping experience and streamlined business operations.
+I’m currently building an e-commerce platform for **Earth Table**, a holistic meal prep and personal chef business. 
+It’s built with **React**, **Node.js**, and **Supabase**, and focuses on creating a smooth shopping experience and streamlined business operations.
 
 ---
-
 
 ### 📫 Let’s Connect!
 
