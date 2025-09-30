@@ -27,6 +27,13 @@ I’m excited to join a dev team where I can keep growing and contribute my skil
 
 ---
 
+### 📌 Current Focus
+
+- Learning the **basics of AWS** through [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791/the-aws-root-account-22739499)  
+- Building my **personal portfolio**, exploring front-end development and design  
+
+---
+
 ### 🌿 Latest Project
 
 **[Earth Table E-commerce](https://www.earthtableco.ca/)**  
@@ -35,12 +42,7 @@ Developed with **React**, **Node.js**, and **Supabase**, the project integrates 
 
 ---
 
-### 📌 Current Focus
 
-- Learning the **basics of AWS** through [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791/the-aws-root-account-22739499)  
-- Building my **personal portfolio**, exploring front-end development and design  
-
----
 
 ### 📫 Let’s Connect!
 
