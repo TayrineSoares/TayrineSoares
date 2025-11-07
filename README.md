@@ -1,6 +1,6 @@
 ## 👋 Hey there!
 
-I’m **Tayrine**, a Junior Full-Stack Developer who loves building apps that both work well and feel good to use.
+I’m **Tayrine**, a Junior Full-Stack Developer who loves building apps that both work well and feel good to use.  
 
 I recently graduated from **Lighthouse Labs’ Web Development program**, where I built full-stack projects using **JavaScript**, **React**, **Node.js**, **PostgreSQL**, and more.  
 I’m always learning and looking for new ways to level up my skills.
@@ -8,6 +8,8 @@ I’m always learning and looking for new ways to level up my skills.
 Before moving into tech, I worked in **civil engineering** and **hospitality**, gaining solid experience in problem-solving, managing projects and time, staying organized, and working well under pressure.
 
 I’m excited to join a dev team where I can keep growing and contribute my skills.
+
+🌐 **Portfolio:** [tayrinesoares.com](https://tayrinesoares.com)
 
 ---
 
@@ -29,8 +31,9 @@ I’m excited to join a dev team where I can keep growing and contribute my skil
 
 ### 📌 Current Focus
 
-- Learning the **basics of AWS** through [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791/the-aws-root-account-22739499)  
-- Building my **personal portfolio**, exploring front-end development and design  
+- Learning the basics of **Java** and practicing **OOP fundamentals**.  
+- Building **KiloBoy Artwork**, a modern e-commerce website for a Toronto-based artist.  
+  The platform will feature **art prints and streetwear**, integrating **Next.js**, **Supabase**, **Stripe**, and **Canada Post API** for smooth payments and shipping management.
 
 ---
 
@@ -42,9 +45,14 @@ Developed with **React**, **Node.js**, and **Supabase**, the project integrates 
 
 ---
 
+### 💼 Job Hunting  
 
+I'm currently looking for a **full-time role as a Developer**.  
+If you're hiring or working on something interesting, don't hesitate to reach out!
+
+---
 
 ### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayrine-soares/)  
-✉️ [tayrinecristina@hotmail.com](mailto:tayrinecristina@hotmail.com)  
+✉️ [tayrinecristina@hotmail.com](mailto:tayrinecristina@hotmail.com)
