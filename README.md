@@ -32,7 +32,7 @@ Before moving into tech, I worked in Civil Engineering and Hospitality, which sh
 - **Full-Stack Developer Intern at [MyKitchenOps](https://www.mykitchenops.com/):**  
   Collaborating with senior engineers on a production application, contributing to refactors, bug fixes, and improvements to features and overall UX using React, Node.js, Supabase, and Tailwind.
 
-- **Built Earth Table Co.:**  
+- **Earth Table Co.:**  
   Developed a full-stack e-commerce platform using **React**, **Node.js**, **Stripe**, and **Supabase**, contributing to a **30% increase in client sales in the first month**.
 
 - **End-to-end application development:**  
@@ -47,8 +47,7 @@ Before moving into tech, I worked in Civil Engineering and Hospitality, which sh
 
 ### 📌 Current Focus
 
-- Building **KiloBoy Artwork**, a modern e-commerce website for a Toronto-based artist  
-  using **Next.js**, **Supabase**, **Stripe**, and **Canada Post API**
+- Building **KiloBoy Artwork**, a modern e-commerce website for a Toronto-based artist using **Next.js**, **Supabase**, **Stripe**, and **Canada Post API**
 
 ---
 
