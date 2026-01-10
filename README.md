@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Tayrine! 
+### 👋 Hey, I'm Tayrine! 
 
 A Junior Full-Stack Developer who loves building apps that both work well and feel good to use.
 
