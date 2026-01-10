@@ -47,7 +47,7 @@ Before moving into tech, I worked in Civil Engineering and Hospitality, which sh
 
 ### 📌 Current Focus
 
-- Building **KiloBoy Artwork**, a modern e-commerce website for a Toronto-based artist using **Next.js**, **Supabase**, **Stripe**, and **Canada Post API**
+- Building **KiloBoy Artwork**, a modern e-commerce website for a Toronto-based artist using **Next.js**, **Supabase**, **Stripe**, and **UPS Shipping API**
 
 ---
 
