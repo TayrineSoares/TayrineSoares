@@ -6,7 +6,7 @@ I’m currently a **Full-Stack Developer Intern at [MyKitchenOps](https://www.my
 
 Before moving into tech, I worked in Civil Engineering and Hospitality, which shaped the structured, calm, and problem-solving mindset I bring into development today.
 
-🌐 **Portfolio:** [tayrinesoares.com](https://tayrinesoares.com)
+**Take a loot at my portfolio:** [tayrinesoares.com](https://tayrinesoares.com)
 
 ---
 
