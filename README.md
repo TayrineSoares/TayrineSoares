@@ -1,6 +1,6 @@
 ### Hey, I'm Tayrine! 
 
-A Junior Full-Stack Developer who loves building apps that both work well and feel good to use.
+A Full-Stack Developer who loves building apps that both work well and feel good to use.
 
 I’m currently a **Full-Stack Developer Intern at [MyKitchenOps](https://www.mykitchenops.com/)**, working alongside senior engineers on a production application — refactoring code, fixing bugs, and improving features and UX using **React**, **Node.js**, **Supabase**, and **Tailwind**.
 
