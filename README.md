@@ -1,10 +1,8 @@
 ### Hey, I'm Tayrine! 
 
-A Full-Stack Developer who loves building apps that both work well and feel good to use.
+I build real-world applications with a focus on usability, scalability, and clean architecture.
 
-I’m currently a **Full-Stack Developer Intern at [MyKitchenOps](https://www.mykitchenops.com/)**, working alongside senior engineers on a production application — refactoring code, fixing bugs, and improving features and UX using **React**, **Node.js**, **Supabase**, and **Tailwind**.
-
-Before moving into tech, I worked in Civil Engineering and Hospitality, which shaped the structured, calm, and problem-solving mindset I bring into development today.
+I’m currently a **Software Engineer at [MyKitchenOps](https://www.mykitchenops.com/)**, working across engineering and product on a SaaS for kitchen operations: improving workflows, documenting system architecture, and translating real-world processes into scalable software features using **React**, **Node.js**, **Supabase**, and **Tailwind**.
 
 **Take a look at my portfolio:** [tayrinesoares.com](https://tayrinesoares.com)
 
@@ -29,14 +27,14 @@ Before moving into tech, I worked in Civil Engineering and Hospitality, which sh
 
 ### 📌 Experience Highlights
 
-- **Full-Stack Developer Intern at [MyKitchenOps](https://www.mykitchenops.com/):**  
-  Collaborating with senior engineers on a production application, contributing to refactors, bug fixes, and improvements to features and overall UX using React, Node.js, Supabase, and Tailwind.
+- **Software Engineer at [MyKitchenOps](https://www.mykitchenops.com/):**
+  Ship and improve features on a production SaaS (React, Node.js, Supabase, Tailwind), translating real workflows into scalable solutions, while refactoring code to fix bugs and improve reliability, maintainability, and UX.
 
 - **[Earth Table Co.](https://www.earthtableco.ca/):**  
   Developed a full-stack e-commerce platform using **React**, **Node.js**, **Stripe**, and **Supabase**, contributing to a **30% increase in client sales in the first month**.
 
 - **End-to-end application development:**  
-  Built multiple projects including a cross-platform recipe finder (**React + React Native**), a quiz creation and sharing platform, and several React SPAs with a strong focus on **UX, API integration, and clean architecture**.
+  Built multiple projects including a cross-platform recipe finder (**React + React Native**), a quiz creation and sharing platform, and React SPAs with a strong focus on **UX, API integration, and clean architecture**.
 
 - **Engineering & leadership background:**  
   Previously led QA initiatives as a **Civil Engineer**, reducing rework by ~30%, and designed **200+ structural components** using industry-standard tools.
@@ -47,14 +45,7 @@ Before moving into tech, I worked in Civil Engineering and Hospitality, which sh
 
 ### 📌 Current Focus
 
-- Building **KiloBoy Artwork**, a modern e-commerce website for a Toronto-based artist using **Next.js**, **Supabase**, **Stripe**, and **UPS Shipping API**
-
----
-
-### 🎯 Career Goals
-
-I'm currently looking for a **full-time role as a Developer**.  
-If you're hiring or working on something interesting, don't hesitate to reach out!
+- Building **[KiloBoy Artwork](https://www.kiloboyartworkstudio.com/)**, a modern e-commerce website for a Toronto-based artist using **Next.js**, **Supabase**, **Stripe**, and **UPS Shipping API**
 
 ---
 
