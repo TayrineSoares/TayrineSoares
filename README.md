@@ -12,12 +12,9 @@ I also work as a **Freelance Web Developer**, helping bring people’s ideas to 
 - 🧘 [Yoga'Ana](https://yogana.vercel.app/)
 - 🎨 [Kiloboy Artwork Studio](https://www.kiloboyartworkstudio.com/)
 
----
 
-#### 🌐 Portfolio
+If you'd like to see more, **take a look at [my portfolio](https://tayrinesoares.com):**  
 
-**Take a look at my portfolio:**  
-[tayrinesoares.com](https://tayrinesoares.com)
 
 ---
 
