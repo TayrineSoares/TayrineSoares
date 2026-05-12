@@ -1,14 +1,27 @@
-### Hey, I'm Tayrine! 
+### Hey, I'm Tayrine! 👋
 
-I build real-world applications with a focus on usability, scalability, and clean architecture.
+I build real-world applications that work well and feel good to use.
 
-I’m currently a **Software Engineer at [MyKitchenOps](https://www.mykitchenops.com/)**, working across engineering and product on a SaaS for kitchen operations: improving workflows, documenting system architecture, and translating real-world processes into scalable software features using **React**, **Node.js**, **Supabase**, and **Tailwind**.
+I’m currently a **Software Engineer at [MyKitchenOps](https://www.mykitchenops.com/)**, working across engineering and product on a SaaS platform for kitchen operations. I help improve workflows, document system architecture, and turn real operational processes into scalable software features using **React**, **Node.js**, **Supabase**, and **Tailwind CSS**.
 
-**Take a look at my portfolio:** [tayrinesoares.com](https://tayrinesoares.com)
+I also work as a **Freelance Web Developer**, helping bring people’s ideas to life with a strong focus on **UX, scalability, and clean architecture**.
+
+#### ✨ Featured Projects
+
+- 🌿 [Earth Table Co](https://www.earthtableco.ca/)
+- 🧘 [Yoga'Ana](https://yogana.vercel.app/)
+- 🎨 [Kiloboy Artwork Studio](https://www.kiloboyartworkstudio.com/)
 
 ---
 
-### 🛠️ Skills
+#### 🌐 Portfolio
+
+**Take a look at my portfolio:**  
+[tayrinesoares.com](https://tayrinesoares.com)
+
+---
+
+#### 🛠️ Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -20,36 +33,26 @@ I’m currently a **Software Engineer at [MyKitchenOps](https://www.mykitchenops
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-FF4A00?logo=mailgun&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-FF4A00?logo=resend&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ---
 
-### 📌 Experience Highlights
+#### 📌 Experience Highlights
 
-- **Software Engineer at [MyKitchenOps](https://www.mykitchenops.com/):**
-  Ship and improve features on a production SaaS (React, Node.js, Supabase, Tailwind), translating real workflows into scalable solutions, while refactoring code to fix bugs and improve reliability, maintainability, and UX.
+- **Software Engineer at [MyKitchenOps](https://www.mykitchenops.com/)**  
+  Build and improve features for a production SaaS platform using React, Node.js, Supabase, and Tailwind CSS, translating real workflows into scalable solutions while improving reliability, maintainability, and UX.
 
-- **[Earth Table Co.](https://www.earthtableco.ca/):**  
-  Developed a full-stack e-commerce platform using **React**, **Node.js**, **Stripe**, and **Supabase**, contributing to a **30% increase in client sales in the first month**.
+- **Engineering background**  
+  Before transitioning into tech, I worked as a Civil Engineer leading QA initiatives that reduced rework by ~30% and designing 200+ structural components using industry-standard tools.
 
-- **End-to-end application development:**  
-  Built multiple projects including a cross-platform recipe finder (**React + React Native**), a quiz creation and sharing platform, and React SPAs with a strong focus on **UX, API integration, and clean architecture**.
-
-- **Engineering & leadership background:**  
-  Previously led QA initiatives as a **Civil Engineer**, reducing rework by ~30%, and designed **200+ structural components** using industry-standard tools.
-
-- **Collaboration & problem-solving:**  
-  Strong experience working in collaborative, customer-facing environments, with a background in **hospitality and engineering** that emphasizes communication, organization, and process optimization.
-
-
-### 📌 Current Focus
-
-- Building **[KiloBoy Artwork](https://www.kiloboyartworkstudio.com/)**, a modern e-commerce website for a Toronto-based artist using **Next.js**, **Supabase**, **Stripe**, and **UPS Shipping API**
+- **Collaboration & problem-solving**  
+  Experience working in collaborative and customer-facing environments, with a background in hospitality and engineering that shaped the way I approach communication, organization, and problem-solving.
 
 ---
 
-### 📫 Let’s Connect!
+#### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayrine-soares/)  
+
 ✉️ [tayrinecristina@hotmail.com](mailto:tayrinecristina@hotmail.com)
