@@ -4,7 +4,7 @@ I build real-world applications that work well and feel good to use.
 
 I’m currently a **Software Engineer at [MyKitchenOps](https://www.mykitchenops.com/)**, working across engineering and product on a SaaS platform for kitchen operations. I help improve workflows, document system architecture, and turn real operational processes into scalable software features using **React**, **Node.js**, **Supabase**, and **Tailwind CSS**.
 
-I also work as a **Freelance Web Developer**, helping bring people’s ideas to life with a strong focus on **UX, scalability, and clean architecture**.
+I also work as a **Freelance Web Developer**, helping bring solutions and ideas to life with a strong focus on **UX, scalability, and clean architecture**.
 
 #### ✨ Featured Projects
 
