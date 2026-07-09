@@ -37,8 +37,8 @@ If you'd like to see more, **take a look at [my portfolio](https://tayrinesoares
 
 #### 📌 Experience Highlights
 
-- **Software Engineer at [MyKitchenOps](https://www.mykitchenops.com/)**  
-  Build and improve features for a production SaaS platform using React, Node.js, Supabase, and Tailwind CSS, translating real workflows into scalable solutions while improving reliability, maintainability, and UX.
+- **Full-stack development**
+  Design and build features for production applications, from database schema to responsive UI, both at MyKitchenOps and through freelance client projects, translating real-world workflows into scalable software.
 
 - **Engineering background**  
   Before transitioning into tech, I worked as a Civil Engineer leading QA initiatives that reduced rework by ~30% and designing 200+ structural components using industry-standard tools.
