@@ -1,4 +1,4 @@
-### Hey, I'm Tayrine! 👋
+### Hey, I'm Tayrine!
 
 I build real-world applications that work well and feel good to use.
 
