@@ -1,3 +1,4 @@
+```
 .                                                tayrine@github ---------------------------------
 .                .::..                           Location: ................ Toronto, Canada
               .=*#%%##*+=-.                      Origin: .................. Brazil
@@ -24,3 +25,4 @@
                                                  Portfolio: ................ tayrinesoares.com
                                                  GitHub: .................... github.com/TayrineSoares
                                                  LinkedIn: .................. linkedin.com/in/tayrine-soares
+```
