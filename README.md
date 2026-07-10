@@ -13,8 +13,8 @@
 .......:#%%%%%%%%#*=+*+=-:-=-=#%#*:              Languages.Services: ....... Stripe, Vercel, Resend
 .......-#%%%%%%%%%*=-++=---::*%%%#+.             Languages.Human: ......... English, Portuguese (BR)
 .......=%%%%%%%%%%%#++==-::-#@%%%#%*.            .
-......-#%%%%%%%%%%%%%%###**%@%%%%%%*.            Hobbies.Tech: ............ UX/UI design, Product Design, Frontend, Community Workshops
-:::..-#%%%%%%%%%%%%%%%%%#*%@%%%%%%%%#=           Hobbies.Life: ............ Travel, cooking, new restaurants, photography
+......-#%%%%%%%%%%%%%%###**%@%%%%%%*.            Hobbies.Tech: ............ UX/UI design, Product Design, Community Workshops
+:::..-#%%%%%%%%%%%%%%%%%#*%@%%%%%%%%#=           Hobbies.Life: ............ Travel, Cooking, New restaurants, Photography
 :::.:+%%%%%%%%%%%%%%%@%%%%@%%%%%%%%%%#-          .
 ::.-#@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*-        --- Featured Projects ---------------------------
 :.-%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%*:      FeaturedProject.1: ........ earthtableco.ca
