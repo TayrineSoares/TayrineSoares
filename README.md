@@ -1,5 +1,3 @@
-tayrinesoares / README.md
-
 ```
                                                  tayrine@github ---------------------------------
                  .::..                           Location: ................ Toronto, Canada
