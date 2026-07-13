@@ -1,4 +1,5 @@
-TayrineSoares@github ------------------------------
+```
+TayrineSoares@github ---------------------------------
 Location: ................ Toronto, Canada
 Origin: .................. Brazil
 Role: ..................... Full-Stack Software Engineer
@@ -24,3 +25,4 @@ FeaturedProject.3: ........ yogana.vercel.app
 Portfolio: ................ tayrinesoares.com
 GitHub: .................... github.com/TayrineSoares
 LinkedIn: .................. linkedin.com/in/tayrine-soares
+```
