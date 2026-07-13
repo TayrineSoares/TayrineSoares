@@ -13,7 +13,7 @@ I also work as a **Freelance Web Developer**, helping bring solutions and ideas 
 - 🎨 [Kiloboy Artwork Studio](https://www.kiloboyartworkstudio.com/)
 
 
-If you'd like to see more, **take a look at [my portfolio](https://tayrinesoares.com):**  
+If you'd like to see more, **take a look at [my portfolio](https://tayrinesoares.com)**  
 
 
 ---
